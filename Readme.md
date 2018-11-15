@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DS12188/Form1.cs) (VB: [Form1.vb](./VB/DS12188/Form1.vb))
+<!-- default file list end -->
 # Obtain labels from a datasource like the resources
 
 
